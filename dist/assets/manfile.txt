@@ -1,0 +1,25 @@
+Task Manager(4.0)          	 Task Manager man page         	 Task Manager(4.0)
+
+NAME
+        Task Manager
+
+DESCRIPTION
+        This is a simple application that provides some process management functionalities
+        like Run/stop a specific process, list all running processes in the system besides
+        memory and CPU usage, and it sends a specific signal to a specific process.
+        Also provides package management like installing, uninstalling, updating packages.
+        As well as, check if a package is installed, listing installed Packages and packages
+        that have available update.
+
+OPTIONS
+        GUI Interface By java, easy and simple for use.
+
+AUTHOR
+        Ahmed Maher Ahmed
+
+COPYRIGHT
+        Copyright © 2022 Free Software Foundation, Inc.  This  is  free  software:
+        you  are free to change and redistribute it. There is  NO  WARRANTY,
+        to the extent permitted by law.
+
+V4.0.0                  	           2022-4-24                	 Task Manager(4.0)
